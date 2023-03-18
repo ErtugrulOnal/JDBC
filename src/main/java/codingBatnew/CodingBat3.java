@@ -6,9 +6,7 @@ public class CodingBat3 {
 
 
         System.out.println(close10(-12, -8));
-
-
-    }
+  }
 
     public static int close10(int a, int b) {
         a = Math.abs(a);
